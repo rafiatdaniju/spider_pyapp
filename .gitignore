@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.vscode/settings.json
+venv/
+requirement.txt
+superlinter.yml
